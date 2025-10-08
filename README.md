@@ -4,8 +4,7 @@ Front-End Developer at iSoft Land Inc (California, USA), passionate about buildi
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://abdalghanidakkak.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white&labelColor=0077B5&message=%20)](https://linkedin.com/in/abdalghani-dakkak)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="28" style="margin-left:-70px;vertical-align:middle;margin-right:6px;" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/abdalghani-dakkak)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdalghanidakkak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalghanidakkak@gmail.com)
 
