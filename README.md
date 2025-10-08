@@ -4,7 +4,7 @@ Front-End Developer at iSoft Land Inc (California, USA), passionate about buildi
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://abdalghanidakkak.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDIhQzIwLjEwOCAyIDIxIDMuMDg3IDIxIDQuNDY5VjE5LjUzQzIxIDIwLjkxMyAyMC4xMDggMjIgMTkgMjJIMTVWMTQuNzI3QzE1IDE0LjA1NyAxNC43NjYgMTMuNSA0IDEzLjVWMTYuNWg0VjIySDRhMiAyIDAgMCAxLTItMlY0LjQ2OUEyLjQ5IDIuNDkgMCAwIDEgNC40NiAySDlWNi43NUgzVjIySDE5Wk0xMSAySDguNzVWNi43NUgxMVYyWiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/abdalghani-dakkak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDIhQzIwLjEwOCAyIDIxIDMuMDg3IDIxIDQuNDY5VjE5LjUzQzIxIDIwLjkxMyAyMC4xMDggMjIgMTkgMjJIMTVWMTQuNzI3QzE1IDE0LjA1NyAxNC43NjYgMTMuNSA0IDEzLjVWMTYuNWg0VjIySDRhMiAyIDAgMCAxLTItMlY0LjQ2OUEyLjQ5IDIuNDkgMCAwIDEgNC40NiAySDlWNi43NUgzVjIySDE5Wk0xMSAySDguNzVWNi43NUgxMVYyWiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/abdalghani-dakkak/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdalghanidakkak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalghanidakkak@gmail.com)
 
